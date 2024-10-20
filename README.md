@@ -90,10 +90,12 @@ cf=confusion_matrix(y_test, y_pred)
 cf
 ```
 ![image](https://github.com/user-attachments/assets/8cfcb49d-a10d-4c18-9a7c-2c39463c8fe2)
-
 ````
+```
 accuracy=accuracy_score(y_test, y_pred)
 accuracy
+````
+
 ![image](https://github.com/user-attachments/assets/4ba8c72d-7810-4f6f-b40b-c2de8ac7817f)
 
 
