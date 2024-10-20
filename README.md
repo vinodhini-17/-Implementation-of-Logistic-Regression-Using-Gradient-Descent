@@ -31,9 +31,10 @@ from sklearn.linear_model import LogisticRegression
 dataset=pd.read_csv("/content/Placement_Data_Full_Class (1).csv")
 dataset.head()
 ```
-
-## Output:
-![logistic regression using gradient descent](sam.png)
+![image](https://github.com/user-attachments/assets/8b74aebd-ff84-4060-a85a-a5736c6160aa)
+```
+dataset.tail()
+``````
 
 
 ## Result:
